@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Link importantes para el curso
+
+React-Redux [https://react-redux.js.org/](https://react-redux.js.org/)
+
+Redux Dev Tools [https://github.com/zalmoxisus/redux-devtools-extension#usage](https://github.com/zalmoxisus/redux-devtools-extension#usage)
+
+Redux-Thunk [https://www.npmjs.com/package/redux-thunk](https://www.npmjs.com/package/redux-thunk)
+
 ## Available Scripts
 
 In the project directory, you can run:

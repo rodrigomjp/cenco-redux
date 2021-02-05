@@ -22,10 +22,10 @@ export const Login = () => {
   return (
     <>
       <form onSubmit={handleSubmit}>
-        <label>First name:</label>
+        <label>User:</label>
         <input type="text" id="user" onChange={handleChangue}></input>
         <br />
-        <label>First name:</label>
+        <label>Name:</label>
         <input type="text" id="name" onChange={handleChangue}></input>
         <br />
         <br />
