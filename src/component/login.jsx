@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
-import Redux from "redux";
 import { login } from "../actions/auth";
 
 export const Login = () => {

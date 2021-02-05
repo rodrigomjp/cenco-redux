@@ -3,7 +3,7 @@ import { types } from "../types/types";
 export const loginAsync = () => {
   return (dispatch) => {
     setTimeout(() => {
-      dispatch(login("userAsyn", "Usuario Async API"));
+      dispatch(login("userAsync", "Juan Async API"));
     }, 3500);
   };
 };
